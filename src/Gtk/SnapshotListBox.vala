@@ -287,7 +287,7 @@ class SnapshotListBox : Gtk.Box{
 						return true;
 					}
 					else if (column == col_desc){
-						tooltip.set_markup(_("<b>Comments</b> (double-click to edit)"));
+						tooltip.set_markup(_("<b>注释</b> (双击以修改)"));
 						return true;
 					}
 					else if (column == col_tags){
