@@ -2593,7 +2593,7 @@ msgstr "网页浏览器"
 
 #: Utility/Gtk/DonationWindow.vala:98
 msgid "Website"
-msgstr ""
+msgstr "网页"
 
 #: Gtk/SnapshotListBox.vala:301 Gtk/ScheduleBox.vala:82
 msgid "Weekly"
@@ -2609,7 +2609,7 @@ msgstr "已启用每周快照"
 
 #: Utility/Gtk/DonationWindow.vala:95
 msgid "Wiki"
-msgstr "维基"
+msgstr "维基帮助文档"
 
 #: Gtk/BackupFinishBox.vala:63 Gtk/DeleteFinishBox.vala:63
 msgid "With Errors"
@@ -2764,7 +2764,7 @@ msgstr "未标记"
 #~ "用鼠标拖放项目以调整顺序。"
 
 #~ msgid "Editing and Re-Ordering"
-#~ msgstr "更改与重排"
+#~ msgstr "更改与重新排序"
 
 #~ msgid "Info"
 #~ msgstr "信息"
@@ -2773,7 +2773,7 @@ msgstr "未标记"
 #~ msgstr "删除系统子卷"
 
 #~ msgid "<b>System:</b> Installed Linux distribution"
-#~ msgstr "<b>系统：</b> 安装的 Linux 发行包"
+#~ msgstr "<b>系统：</b> 安装的Linux发行版名称"
 
 #~ msgid "<b>Snapshot Date:</b> Date on which snapshot was created"
 #~ msgstr "<b>快照日期：</b> 快照的创建日期"
@@ -2810,7 +2810,7 @@ msgstr "未标记"
 #~ msgstr "已更改"
 
 #~ msgid "deleted"
-#~ msgstr "已完成"
+#~ msgstr "已删除"
 
 #~ msgid ""
 #~ "This program is free for personal and commercial use and comes with "
@@ -2818,4 +2818,4 @@ msgstr "未标记"
 #~ "The author will not be liable for any damages arising from the use of "
 #~ "this program."
 #~ msgstr ""
-#~ "该软件没有绝对的免费保修，作者对使用本程序造成的任何损害不承担任何责任。"
+#~ "该软件没有绝对的免费保修，作者对使用本程序造成的任何损害不承担任何责任。重要数据请多使用各种手段进行备份"
