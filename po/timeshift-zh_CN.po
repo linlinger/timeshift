@@ -439,7 +439,7 @@ msgstr "是否继续恢复？(y/n) "
 #: Utility/Gtk/AboutWindow.vala:425
 #, fuzzy
 msgid "Contributors"
-msgstr "贡献"
+msgstr "贡献者"
 
 #: Console/AppConsole.vala:836 Console/AppConsole.vala:967
 msgid "Could not find device"
@@ -598,7 +598,7 @@ msgstr "以下设备中的数据将被修改："
 
 #: Gtk/MiscBox.vala:71
 msgid "Date Format"
-msgstr ""
+msgstr "时间格式"
 
 #: Console/AppConsole.vala:371 Gtk/MainWindow.vala:161
 #: Gtk/SnapshotListBox.vala:322 Gtk/DeleteWindow.vala:98
@@ -812,7 +812,7 @@ msgstr "示例"
 #: Gtk/UsersBox.vala:136
 #, fuzzy
 msgid "Exclude All Files"
-msgstr "排除一切"
+msgstr "排除所有文件"
 
 #: Gtk/RestoreExcludeBox.vala:55 Gtk/ExcludeAppsBox.vala:51
 msgid "Exclude Application Settings"
@@ -844,7 +844,7 @@ msgstr "排除值：O, B, H, D, W, M"
 
 #: Utility/CronTab.vala:132
 msgid "Failed to add cron job"
-msgstr "添加 Cron 任务失败"
+msgstr "添加定时任务失败"
 
 #: Utility/TeeJee.FileSystem.vala:169
 msgid "Failed to copy file"
@@ -1107,7 +1107,7 @@ msgstr "组"
 
 #: Gtk/SnapshotBackendBox.vala:133
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 #: Gtk/ExcludeMessageWindow.vala:129
 msgid ""
@@ -1363,7 +1363,7 @@ msgstr "菜单"
 
 #: Gtk/SettingsWindow.vala:105
 msgid "Misc"
-msgstr ""
+msgstr "杂项"
 
 #: Gtk/UsersBox.vala:354
 msgid "Miscellaneous"
