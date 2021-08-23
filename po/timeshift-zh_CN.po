@@ -2552,7 +2552,7 @@ msgstr "用户已取消密码提示"
 #: Gtk/UsersBox.vala:67
 msgid ""
 "User home directories are excluded by default unless you enable them here"
-msgstr "默认情况下，除非您在这里开启，否则会排除用户主目录"
+msgstr "默认情况下，除非您在这里开启，否则用户主目录不会被备份"
 
 #: Gtk/SettingsWindow.vala:101
 msgid "Users"
