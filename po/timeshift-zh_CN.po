@@ -810,7 +810,6 @@ msgid "Examples"
 msgstr "示例"
 
 #: Gtk/UsersBox.vala:136
-#, fuzzy
 msgid "Exclude All Files"
 msgstr "排除所有文件"
 
@@ -1176,14 +1175,12 @@ msgid "Include @home subvolume in backups"
 msgstr "在备份中包含 @home 子卷"
 
 #: Gtk/UsersBox.vala:266
-#, fuzzy
 msgid "Include All Files"
-msgstr "包含一切"
+msgstr "包含所有文件"
 
 #: Gtk/UsersBox.vala:194
-#, fuzzy
 msgid "Include Only Hidden Files"
-msgstr "包含隐藏文件"
+msgstr "仅包括隐藏文件"
 
 #: Core/Main.vala:2046
 msgid "Invalid Snapshot"
