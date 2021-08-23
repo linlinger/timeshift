@@ -24,5 +24,5 @@ Comment[lt]=Sistemos atkūrimo paslaugų programa
 Comment[nl]=Hulpmiddel voor systeemherstel
 Comment[ru]=Программа для восстановления системы
 X-KDE-StartupNotify=false
-Categories=System;
+Categories=System;GTK;Settings;DesktopSettings;XFCE;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
 X-GNOME-UsesNotifications=true
