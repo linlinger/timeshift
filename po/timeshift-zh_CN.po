@@ -437,7 +437,6 @@ msgid "Continue with restore? (y/n): "
 msgstr "是否继续恢复？(y/n) "
 
 #: Utility/Gtk/AboutWindow.vala:425
-#, fuzzy
 msgid "Contributors"
 msgstr "贡献者"
 
