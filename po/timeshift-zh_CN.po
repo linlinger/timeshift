@@ -2423,7 +2423,8 @@ msgstr ""
 "该软件没有绝对的免费保修，作者对使用本程序造成的任何损害不承担任何责任。"
 
 #: Utility/Gtk/DonationWindow.vala:66
-msgid "This software is free for personal and commercial use. It is distributed in "
+msgid "msg"
+msgstr "This software is free for personal and commercial use. It is distributed in "
 "the hope that it is useful but without any warranty. See the GNU General "
 "Public License v2 or later for more information"
 msgstr "该软件可免费用于个人和商业用途。希望它的分发是有用的，但不作任何担保。有关更"
