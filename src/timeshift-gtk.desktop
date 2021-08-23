@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Timeshift
+Name[zh_CN]=Timeshift系统备份与还原
 MimeType=
 Exec=timeshift-launcher
 Type=Application
@@ -12,6 +13,7 @@ GenericName[hr]=Alat obnove sustava
 GenericName[lt]=Sistemos atkūrimo paslaugų programa
 GenericName[nl]=Hulpmiddel voor systeemherstel
 GenericName[ru]=Программа для восстановления системы
+GenericName[zh_CN]=系统备份和还原工具
 Terminal=false
 Icon=timeshift
 Comment=System Restore Utility
@@ -23,6 +25,7 @@ Comment[hr]=Alat obnove sustava
 Comment[lt]=Sistemos atkūrimo paslaugų programa
 Comment[nl]=Hulpmiddel voor systeemherstel
 Comment[ru]=Программа для восстановления системы
+Comment[zh_CN]=系统备份和还原工具
 X-KDE-StartupNotify=false
 Categories=System;GTK;Settings;DesktopSettings;XFCE;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
 X-GNOME-UsesNotifications=true
