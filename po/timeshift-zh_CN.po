@@ -2318,6 +2318,10 @@ msgstr "摘要"
 msgid "Support"
 msgstr "支持"
 
+#: Utility/Gtk/DonationWindow.vala:102
+msgid "More Apps"
+msgstr "更多应用"
+
 #: Console/AppConsole.vala:378
 msgid "Switch to BTRFS mode (default: config)"
 msgstr "切换到 BTRFS 模式（默认：config）"
