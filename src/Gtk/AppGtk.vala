@@ -125,12 +125,12 @@ public class AppGtk : GLib.Object {
 		
 		if (!user_is_admin()){
 			
-			var msg = _("Admin access is required to backup and restore system files.") + "\n";
-			msg += _("Please re-run the application as admin (using 'sudo' or 'su')");
+			var msg = (_"Admin access is required to backup and restore system files.") + "\n";
+			msg += (_"Please re-run the application as admin (using 'sudo' or 'su')");
 
 			log_error(msg);
 
-			string title = _("Admin Access Required");
+			string title = (_"Admin Access Required");
 			gtk_messagebox(title, msg, null, true);
 
 			exit(1);
