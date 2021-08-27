@@ -124,13 +124,17 @@ msgstr "添加标签到快照 (默认：O)"
 msgid "Added cron task"
 msgstr "Cron 任务已添加"
 
-#: Gtk/AppGtk.vala:133
-msgid "Admin Access Required"
-msgstr "需要管理员权限"
-
 #: Gtk/AppGtk.vala:128
 msgid "Admin access is required to backup and restore system files."
 msgstr "备份和恢复系统文件需要管理员权限。"
+
+#: Gtk/AppGtk.vala:129
+msgid "Please re-run the application as admin (using 'sudo' or 'su')"
+msgstr "请以管理员身份重新运行此应用程序（使用sudo或su）"
+
+#: Gtk/AppGtk.vala:133
+msgid "Admin Access Required"
+msgstr "需要管理员权限"
 
 #: Gtk/RsyncLogBox.vala:363
 msgid "All Files"
