@@ -2373,6 +2373,9 @@ public class Main : GLib.Object{
 			else if (target_distro.dist_type == "arch"){
 				sh += "%s mkinitcpio -p /etc/mkinitcpio.d/*.preset\n".printf(chroot);
 			}
+			else if (target_distro.dist_type == "spanningtree"){
+				sh += "%s mkinitcpio -p /etc/mkinitcpio.d/*.preset\n".printf(chroot);
+			}
 			else{
 				sh += "%s update-initramfs -u -k all \n".printf(chroot);
 			}
