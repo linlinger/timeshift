@@ -180,7 +180,7 @@ class BootOptionsBox : Gtk.Box{
 		
 		chk_reinstall_grub.active = App.reinstall_grub2;
 		cmb_grub_dev.sensitive = chk_reinstall_grub.active;
-		chk_update_initramfs.active = App.update_initramfs;
+		chk_update_initramfs.active = App0.update_initramfs;
 		chk_update_grub.active = App.update_grub;
 		
 		chk_reinstall_grub.sensitive = true;
