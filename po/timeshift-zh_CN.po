@@ -577,7 +577,7 @@ msgstr "Cron 任务已存在"
 
 #: Gtk/MiscBox.vala:98
 msgid "Custom"
-msgstr ""
+msgstr "自定义"
 
 #: Gtk/SnapshotListBox.vala:300 Gtk/ScheduleBox.vala:100
 msgid "Daily"
@@ -1342,8 +1342,8 @@ msgid "Main window closed by user"
 msgstr "主窗口被用户关闭"
 
 #: Gtk/SnapshotListBox.vala:329
-msgid "Mark for Deletion"
-msgstr "标记为删除"
+msgid "Mark/Unmark for Deletion"
+msgstr "标记/取消标记为删除"
 
 #: Gtk/MainWindow.vala:634
 msgid "Marked for deletion"
