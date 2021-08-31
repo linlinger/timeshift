@@ -127,7 +127,6 @@ public class AppGtk : GLib.Object {
 			
 			var msg = _("需要管理员权限还原和备份系统文件") + "\n";
 			msg += _("请使用管理员权限重新运行此应用 (使用 'sudo' 或者 'su')");
-			msg += (target_distro.dist_type);
 
 			log_error(msg);
 

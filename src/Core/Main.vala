@@ -2386,6 +2386,7 @@ public class Main : GLib.Object{
 		if (update_grub){
 			sh += "echo '' \n";
 			sh += "echo '" + _("Updating GRUB menu...") + "' \n";
+			log(target_distro.dist_type);
 			
 			if (target_distro.dist_type == "redhat"){
 				sh += "%s grub2-mkconfig -o /boot/grub2/grub.cfg \n".printf(chroot);
