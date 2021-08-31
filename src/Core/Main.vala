@@ -2294,7 +2294,7 @@ public class Main : GLib.Object{
 		sh += "sync \n"; // sync file system
 
 		log_debug("rsync script:");
-		log_debug(sh);
+		log_debug(sh); 
 
 		sh_sync = sh;
 		
@@ -2371,9 +2371,6 @@ public class Main : GLib.Object{
 				sh += "%s dracut -f -v \n".printf(chroot);
 			}
 			else if (target_distro.dist_type == "arch"){
-				sh += "%s mkinitcpio -p /etc/mkinitcpio.d/*.preset\n".printf(chroot);
-			}
-			else if (target_distro.dist_type == "spanningtree"){
 				sh += "%s mkinitcpio -p /etc/mkinitcpio.d/*.preset\n".printf(chroot);
 			}
 			else{
