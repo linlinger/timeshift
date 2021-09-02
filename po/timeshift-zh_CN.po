@@ -1155,9 +1155,8 @@ msgstr ""
 
 #: Core/Main.vala:2232
 msgid ""
-"If these terms are not acceptable to you, please do not proceed beyond this "
-"point!"
-msgstr "如果您无法接受这些条款，请不要继续进行下去！"
+"If these terms are not acceptable to you, please do not proceed beyond this point!"
+msgstr "请在进行还原之前仔细检查相关设定！"
 
 #: Utility/Gtk/DonationWindow.vala:70
 msgid ""
@@ -2420,11 +2419,8 @@ msgid "This device is not encrypted"
 msgstr "此设备未被加密"
 
 #: Core/Main.vala:2231
-msgid ""
-"This software comes without absolutely NO warranty and the author takes no "
-"responsibility for any damage arising from the use of this program."
-msgstr ""
-"该软件没有绝对的免费保修，作者对使用本程序造成的任何损害不承担任何责任。"
+msgid "This software comes without absolutely NO warranty and the author takes no responsibility for any damage arising from the use of this program."
+msgstr "该软件没有绝对的免费保修，作者对使用本程序造成的任何损害不承担任何责任。"
 
 #: Utility/Gtk/DonationWindow.vala:66
 msgid "This software is free for personal and commercial use. It is distributed in the hope that it is useful but without any warranty or support. See the GNU General Public License v2 or later for more information"
