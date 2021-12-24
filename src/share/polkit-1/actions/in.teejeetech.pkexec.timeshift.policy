@@ -6,8 +6,14 @@
   <vendor>Tony George</vendor>
   <vendor_url>https://github.com/teejee2008</vendor_url>
   <action id="in.teejeetech.pkexec.timeshift-gtk">
-    <message gettext-domain="timeshift">Authentication is required to run Timeshift as Administrator</message>
+    <message>Authentication is required to run Timeshift as Administrator</message>
+    <message xml:lang="zh_CN">运行系统备份和恢复需要系统管理员权限</message>
+    <message xml:lang="zh_HK">運行系統備份和恢複需要系統管理員權限</message>
+    <message xml:lang="zh_TW">運行系統備份和恢複需要系統管理員權限</message>
     <description>Run Timeshift as Administrator</description>
+    <description xml:lang="zh_CN">以管理员身份运行系统备份和恢复</description>
+    <description xml:lang="zh_HK">以管理員身份運行系統備份和恢複</description>
+    <description xml:lang="zh_TW">以管理員身份運行系統備份和恢複</description>
     <icon_name>timeshift</icon_name>
     <defaults>
       <allow_any>auth_admin</allow_any>
@@ -18,8 +24,14 @@
     <annotate key="org.freedesktop.policykit.exec.allow_gui">true</annotate>
   </action>
   <action id="in.teejeetech.pkexec.timeshift">
-    <message gettext-domain="timeshift">Authentication is required to run Timeshift as Administrator</message>
+    <message>Authentication is required to run Timeshift as Administrator</message>
+    <message xml:lang="zh_CN">运行系统备份和恢复需要系统管理员权限</message>
+    <message xml:lang="zh_HK">運行系統備份和恢複需要系統管理員權限</message>
+    <message xml:lang="zh_TW">運行系統備份和恢複需要系統管理員權限</message>
     <description>Run Timeshift as Administrator</description>
+    <description xml:lang="zh_CN">以管理员身份运行系统备份和恢复</description>
+    <description xml:lang="zh_HK">以管理員身份運行系統備份和恢複</description>
+    <description xml:lang="zh_TW">以管理員身份運行系統備份和恢複</description>
     <icon_name>timeshift</icon_name>
     <defaults>
       <allow_any>auth_admin</allow_any>
